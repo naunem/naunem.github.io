@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "ch.monstar.android.develop",
+    "sha256_cert_fingerprints":
+    ["D6:E7:9F:7D:2F:23:BF:A6:6A:CF:28:43:2C:A2:32:DF:43:7E:1F:ED:6E:2E:33:A2:2E:48:14:9E:71:60:42:6F"]
+  }
+}]
